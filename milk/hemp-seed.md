@@ -59,3 +59,31 @@ The typical nutrient amounts found in hemp sees are defined in the table below.
 | Fibre              | 30.6g            |
 | Protein            | 20.2g            |
 | Salt               | 0.07g            |
+
+
+### Hemp seeds amino acids profile
+
+Complete List of Hemp’s Amino Acids
+
+Essential amino acids are again marked in bold
+
+| amino acid        | % of total |
+|:------------------|-----------:|
+| Alanine           |        4.7 |
+| Arginine          |       11.4 |
+| Aspartic Acid     |       10.7 |
+| Cystine           |          2 |
+| Glutamic Acid     |       17.6 |
+| Glycine           |        4.8 |
+| **Histidine**     |        2.7 |
+| **Isoleucine**    |        4.5 |
+| **Leucine**       |        6.8 |
+| **Lysine**        |        3.8 |
+| **Methionine**    |        2.6 |
+| **Phenylalanine** |        4.7 |
+| Proline           |        4.6 |
+| Serine            |          5 |
+| **Threonine**     |        3.9 |
+| **Tryptophan**    |        1.1 |
+| Tyrosine          |        3.3 |
+| **Valine**        |        5.6 |
