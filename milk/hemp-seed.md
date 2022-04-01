@@ -25,7 +25,7 @@ Works well in sauces or as a creamy liquid to mix with dry ingredients when cook
 
 ## Preparation
 
-Measure out xxx amount of hemp seeds per litre of water.
+Measure out quarter of a cup of hemp seeds per litre of water.
 
 Rinse the hemp seeds to remove any dust from packaging.
 
