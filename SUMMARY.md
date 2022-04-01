@@ -2,8 +2,7 @@
 
 * [Introduction](introduction.md)
 
-## Section Header
+## Recipes
 
-* [overview](section/index.md)
 
 ## Reference
