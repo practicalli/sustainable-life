@@ -45,6 +45,9 @@ Place the glass jar of milk into the fridge to cool.  Or place is a cold locatio
 
 ## Nutritional values
 
+The ingredients of Hemp seed milk are water and hemp seeds.
+
+The typical nutrient amounts found in hemp sees are defined in the table below.
 
 | Typical Nutrients: | Amount per 100g: |
 |:-------------------|------------------|
