@@ -4,5 +4,6 @@
 
 ## Recipes
 
+* [Milk](milk/index.md)
 
 ## Reference
