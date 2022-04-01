@@ -4,6 +4,8 @@ Simple recipes and cooking tips for a healthy vegan approach to food
 
 Feel free to raise issues with your own favorite recipies,
 
+![Go Vegan banner image](https://raw.githubusercontent.com/practicalli/graphic-design/live/vegan/practicalli-vegan-banner-go-vegan.png)
+
 
 ## Topics to be expanded upon
 
