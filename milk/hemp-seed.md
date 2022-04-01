@@ -1,6 +1,6 @@
 # Hemp Seed Milk
 
-Hemp is a great source of protein and fat (omega 3, 6 and 9) and contains a full spectrum of amino acids which our bodies cannot produce.
+Hemp is a great source of protein (20% ) and fat (omega 3, 6 and 9) and contains a full spectrum of amino acids which our bodies cannot produce.
 
 The easiest milk to make as it requires almost no preparation and last for 2-3 days.
 
