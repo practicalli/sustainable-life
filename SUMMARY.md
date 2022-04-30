@@ -9,4 +9,7 @@
     * [Oat Flakes](milk/oat-flakes.md)
     * [Soya Beans](milk/soya-beans.md)
 
+<!-- * [Breakfast](breakfast/index.md) -->
+<!--     * [oats supreme](breakfast/index.md) -->
+
 ## Reference
