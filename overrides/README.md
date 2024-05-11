@@ -1,4 +1,4 @@
-# Practicalli sustainable-life
+# Practicalli Neovim
 
 ```none
 ██████╗ ██████╗  █████╗  ██████╗████████╗██╗ ██████╗ █████╗ ██╗     ██╗     ██╗
@@ -12,11 +12,11 @@
 
 ## Book status
 
-![GitHub issues](https://img.shields.io/github/issues/practicalli/sustainable-life?label=content%20ideas&logo=github)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/practicalli/sustainable-life?label=commits&logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/practicalli/sustainable-life?label=pull%20requests&logo=github)
-[![Publish Book](https://github.com/practicalli/sustainable-life/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/sustainable-life/actions/workflows/publish-book.yaml)
-[![MegaLinter](https://github.com/practicalli/sustainable-life/actions/workflows/megalinter.yml/badge.svg)](https://github.com/practicalli/sustainable-life/actions/workflows/megalinter.yml)
+![GitHub issues](https://img.shields.io/github/issues/practicalli/neovim?label=content%20ideas&logo=github)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/practicalli/neovim?label=commits&logo=github)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/practicalli/neovim?label=pull%20requests&logo=github)
+[![Publish Book](https://github.com/practicalli/neovim/actions/workflows/publish-book.yaml/badge.svg)](https://github.com/practicalli/neovim/actions/workflows/publish-book.yaml)
+[![MegaLinter](https://github.com/practicalli/neovim/actions/workflows/megalinter.yml/badge.svg)](https://github.com/practicalli/neovim/actions/workflows/megalinter.yml)
 
 
 ## License and Contributing
@@ -24,11 +24,11 @@
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
 <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
 <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
- <a property="dct:title" rel="cc:attributionURL" href="https://github.com/practicalli/sustainable-life">Practicalli Sustainable Life</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://practical.li">Practicalli</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 </a></p>
+ <a property="dct:title" rel="cc:attributionURL" href="https://github.com/practicalli/neovim">Practicalli Neovim</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://practical.li">Practicalli</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 </a></p>
 
-Please [read the Practicalli contributing guide](https://practical.li/contributing) before raising an issue or pull request
+Please [read the contributing section of the book](contributing.html) before raising an issue or pull request
 
-By submitting content ideas and corrections you are agreeing they can be used in this workshop under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/sustainable-life/graphs/contributors).
+By submitting content ideas and corrections you are agreeing they can be used in this workshop under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/neovim/graphs/contributors).
 
 
 ## Sponsor Practicalli
@@ -56,7 +56,7 @@ Publish book workflow installs Material for MkDocs version 9
 Install mkdocs version 9 using the Python pip package manager
 
 ```bash
-pip3 install mkdocs-material=="9.5"
+pip3 install mkdocs-material=="9.4"
 ```
 
 Install the plugins used by the Practicalli site using Pip (these are also installed in the GitHub Action workflow)
