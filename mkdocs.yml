@@ -128,7 +128,7 @@ extra:
 # Navigation
 nav:
   - Introduction:
-      - Overview: introduction.md
+      - Overview: index.md
       - Contributing: https://practical.li/contributing/
       - Writing Tips: https://practical.li/writing-tips
   - Milk: 
