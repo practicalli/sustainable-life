@@ -18,25 +18,41 @@
 [![MegaLinter](https://github.com/practicalli/sustainable-life/actions/workflows/megalinter.yml/badge.svg)](https://github.com/practicalli/sustainable-life/actions/workflows/megalinter.yml)
 
 
-## License and Contributing
+## Creative commons license
 
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-<a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a>
- <a property="dct:title" rel="cc:attributionURL" href="https://github.com/practicalli/sustainable-life">Practicalli Sustainable Life</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://practical.li">Practicalli</a> is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0 </a></p>
+<div style="width:95%; margin:auto;">
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+  This work is licensed under a Creative Commons Attribution 4.0 ShareAlike License (including images & stylesheets).
+</div>
 
-Please [read the Practicalli contributing guide](https://practical.li/contributing) before raising an issue or pull request
+# Overview
 
-By submitting content ideas and corrections you are agreeing they can be used in this workshop under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/sustainable-life/graphs/contributors).
+Practical guides to cycling route planning, training and essential maintenance.
+
+## Contributing
+
+Issues and pull requests are most welcome although it is the maintainers discression as to if they are applicable.  Please detail issues as much as you can.  Pull requests are simpler to work with when they are specific to a page or at most a section.  The smaller the change the quicker it is to review and merge.
+
+Please read the [detailed Practicalli contributing page](https://practical.li/contributing/) before raising an issue or pull request to avoid disappointment.
+
+* [Current Issues](https://github.com/practicalli/cycling/issues)
+* [Current pull requests](https://github.com/practicalli/cycling/pulls)
+
+By submitting content ideas and corrections you are agreeing they can be used in this workshop under the [Creative Commons Attribution ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).  Attribution will be detailed via [GitHub contributors](https://github.com/practicalli/cycling/graphs/contributors).
 
 
 ## Sponsor Practicalli
 
-[![Sponsor practicalli-john](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-john/)
+[![Sponsor Practicalli via GitHub](https://raw.githubusercontent.com/practicalli/graphic-design/live/buttons/practicalli-github-sponsors-button.png)](https://github.com/sponsors/practicalli-johnny/)
 
-The majority of my work is focused on the [Practicalli series of books and videos](https://practical.li/) and an advisory role with several communities
+All sponsorship funds are used to support the continued development of [Practicalli series of books and videos](https://practical.li/), although most work is done at personal cost and time.
 
-Thank you to [Cognitect](https://www.cognitect.com/), [Nubank](https://nubank.com.br/) and a wide range of other [sponsors](https://github.com/sponsors/practicalli-john#sponsors) for your continued support
+Thank you to a wide range of [sponsors](https://github.com/sponsors/practicalli-johnny#sponsors) for your continued support.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=practicalli/cycling&type=Date)](https://star-history.com/#practicalli/sustainable-life&Date)
 
 
 ## GitHub Actions
@@ -52,36 +68,32 @@ Publish book workflow installs Material for MkDocs version 9
 
 ## Local development
 
-Install mkdocs version 9 using the Python pip package manager
+Zensical can be installed locally via vu or pip. Practicalli uses uv for simplicity.  Commands are wrapped in tasks defined within the `Makefile`.
 
-```bash
-pip3 install mkdocs-material=="9.5"
+Clone the repository and change into the root of the project.
+
+```shell
+git clone https://github.com/practicalli/cycling
 ```
 
-Install the plugins used by the Practicalli site using Pip (these are also installed in the GitHub Action workflow)
+Install Zensical as a tool using `uv` (updating if there is a new version).
 
-```bash
-pip3 install mkdocs-material mkdocs-callouts mkdocs-glightbox mkdocs-git-revision-date-localized-plugin mkdocs-redirects pillow cairosvg
+```shell
+make docs-install
 ```
 
-> pillow and cairosvg python packages are required for [Social Cards](https://squidfunk.github.io/mkdocs-material/setup/setting-up-social-cards/)
+Build the website and serve locally at [http://localhost:8000](http://localhost:8000)
 
-Fork the GitHub repository and clone that fork to your computer,
-
-```bash
-git clone https://github.com/<your-github-account>/<repository>.git
-```
-
-Run a local server from the root of the cloned project
-
-```bash
+```shell
 make docs
 ```
 
-The website will open at <http://localhost:8000>
+---
 
-If making smaller changes, then only rebuild the content that changes, speeding up the local development process
+Specific command if now using make:
 
-```bash
-make docs-changed
+Create a virtual python in the root of the project.
+
+```shell
+uv tool install zensical --upgrade
 ```
