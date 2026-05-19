@@ -25,7 +25,7 @@ A common approach is to add a small amount of beetroot to each pickling jar, to 
 ### Ingredients
 
 - 1 Mason jar (or similar sealed glass jar)
-- Cider Vinegar (alternatively use distilled water with white vinegar and sea salt)
+- [Pickling Vinegar](index.md#pickling-vinegar) - Apple Cider recommended
 - 2 small turnips
 - 1 small beetroot
 - additional seasonings if required (see [variants](#variants))
