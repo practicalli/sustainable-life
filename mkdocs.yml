@@ -1,5 +1,4 @@
 ---
-# Practicalli Neovim
 site_name: Practicalli Sustainable Life
 site_url: https://practical.li/sustainable-life
 site_description: Practical guide to living a sustainable life and minimising negative impact on our planet
@@ -110,7 +109,7 @@ plugins:
 extra:
   analytics:
     provider: google
-    property: 
+    property:
   social:
     - icon: material/web
       link: https://practical.li/
@@ -131,9 +130,9 @@ nav:
       - Overview: index.md
       - Contributing: https://practical.li/contributing/
       - Writing Tips: https://practical.li/writing-tips
-  - Milk: 
-      - Overview: milk/index.md 
-      - Hemp Seed: milk/hemp-seed.md 
+  - Milk:
+      - Overview: milk/index.md
+      - Hemp Seed: milk/hemp-seed.md
       - Oat Flakes: milk/oat-flakes.md
       - Soya Beans: milk/soya-beans.md
   - Pickles:
