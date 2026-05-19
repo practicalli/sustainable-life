@@ -42,6 +42,8 @@ Pickling vinegar with 5% acetic acid concentration or higher will prevent the gr
 
 Buying in bulk can be more cost efficient as pickling vinegar should last at least 1 year and up to 3 years.  Check the
 
+!!! WARNING "Use Distilled Water if diluting pickling vinegar"
+
 
 ### Distilled white vinegar
 
