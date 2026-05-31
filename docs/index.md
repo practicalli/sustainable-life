@@ -1,3 +1,7 @@
+---
+icon: lucide/bike
+---
+
 # Practicalli Sustainable Life
 
 Living healthily allows your to make the most out of life, feeling better both physically and mentally.
