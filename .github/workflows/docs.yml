@@ -11,7 +11,7 @@ on:
       - "includes/**"
       - "overrides/**"
       - "mkdocs.yaml"
-        "zensical.toml"
+      - "zensical.toml"
     branches:
       - main
     types:
