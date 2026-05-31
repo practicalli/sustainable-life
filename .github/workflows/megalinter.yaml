@@ -1,7 +1,7 @@
 ---
 # MegaLinter GitHub Action configuration file
-# More info at https://megalinter.github.io
-# All variables described in https://megalinter.github.io/configuration/
+# More info at https://megalinter.io
+# All variables described in https://megalinter.io/latest/configuration/
 
 name: MegaLinter
 on:
@@ -54,7 +54,7 @@ jobs:
 
       # Upload MegaLinter artifacts
       - name: Archive production artifacts
-        if: success() || failure()
+        if: ${{ success() }} || ${{ failure() }}
         uses: actions/upload-artifact@v7
         with:
           name: MegaLinter reports
