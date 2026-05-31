@@ -85,13 +85,9 @@ docs-debug:  ## Run local server in debug mode
 mkdocs:  ## Build and run mkdocs in local server
 	$(info --------- Mkdocs Local Server ---------)
 	mkdocs serve --dev-addr localhost:7777
+
+dist: docs-build ## Build mkdocs website
 # ------------------------------------------------ #
-
-# ------- Version Control ------------------------ #
-
-
-
-
 
 # ------- Version Control ------------------------ #
 git-sr:  ## status list of git repos under current directory
