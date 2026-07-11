@@ -8,7 +8,7 @@ Food that is otherwise out of season can be enjoyed when pickled.
 
 Fruit and Vegetables which a good to pickle:
 
-- [turnips](turnip.md)
+- [turnip](turnip.md)
 - Jalapenos
 - avocado
 - red onion

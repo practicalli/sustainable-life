@@ -56,8 +56,8 @@ nav = [
   ]},
 
   { "Pickles" = [
-      { "Pickles" = "pickles/index.md" },
-      { "Turnips" = "pickles/turnips.md" },
+      "pickles/index.md",
+      { "Turnip" = "pickles/turnip.md" },
     ]},
 
   { "Zensical Tips" = "zensical-tips.md" },
