@@ -42,7 +42,7 @@ jobs:
       - name: MegaLinter Run
         id: ml
         ## latest release of major version
-        uses: oxsecurity/megalinter/flavors/documentation@v9
+        uses: oxsecurity/megalinter/flavors/documentation@beta
         env:
           # Validate the git diff against default branch.
           VALIDATE_ALL_CODEBASE: >-
