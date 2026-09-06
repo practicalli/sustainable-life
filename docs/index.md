@@ -9,6 +9,13 @@ Living healthily allows your to make the most out of life, feeling better both p
 When you can also live sustainably you are helping keep the planet viable for human life.
 
 
+## Sustainable services
+
+The home office of the Practicalli team is powered by [Ecotricity Green Electricity and Gas provider](www.ecotricity.co.uk/rafall/RAF-F8H8R)
+
+[Ecotricity Referral Link](www.ecotricity.co.uk/rafall/RAF-F8H8R){target=_blank .md-button}
+
+
 ## Vegetarian & Vegan diet
 
 Simple recipes and cooking tips for a healthy vegetarian and vegan approach to food.
