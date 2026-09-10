@@ -1,4 +1,3 @@
-
 # Unreleased
 
 ## Added
@@ -6,3 +5,4 @@
 
 ## Changed
 - dev: megalinter upload-artifact v4
+- ci(github): zensical doc publish with setup-uv
