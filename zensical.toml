@@ -63,6 +63,11 @@ nav = [
     { "Turnip" = "pickles/turnip.md" },
   ]},
 
+  { "Physical Activity" = [
+    "physical-activity/index.md",
+    { "Resistance" = "physical-activity/resistance.md" },
+    { "Flexibility" = "physical-activity/flexibility.md" },
+  ]},
   { "Zensical Tips" = "zensical-tips.md" },
 ]
 
