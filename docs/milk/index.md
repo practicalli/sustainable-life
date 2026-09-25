@@ -1,12 +1,18 @@
 # Home-made milk
 
+![Home-made milk in a Kilner jar](https://github.com/practicalli/graphic-design/blob/live/sustainable-life/milk-bottle-kilner.png?raw=true){align=right loading=lazy style="width:240px"}
+
 Home made milk is vastly more cost effective than store bought milk and also uses a lot less packaging and minimal transport costs (from the raw ingredients).
 
-The most effective plant based milks are Hemp Seed, Oat and Soya Bean. Practicalli recommends Hemp Seed milk, especially for breakfast cereals
+The ingredients can be controlled to tailor the flavor or avoid unwanted sugar, oils or preservatives.
 
-* [Hemp Seed milk](./hemp-seed.md)
-* [Oat Milk](./oat-flakes.md)
-* [Soya Bean milk](./soya-beans.md)
+The most effective plant based milks are Hemp Seed, Oat and Soya Bean.
+
+[Hemp Seed milk](./hemp-seed.md){.md-button .md-button--primary}
+[Oat Milk](./oat-flakes.md){.md-button}
+[Soya Bean milk](./soya-beans.md){.md-button}
+
+> Practicalli recommends Hemp Seed milk, especially for breakfast cereals
 
 
 ## Making milk
@@ -19,6 +25,9 @@ Some ingredients will require a pre-soaking before blending, e.g. soya beans.
 
 
 ## Storing Milk
+
+![Kilner jar](https://github.com/practicalli/graphic-design/blob/live/sustainable-life/kilner-jar-square-2-litre.png?raw=true){align=right loading=lazy style="width:240px"}
+
 
 Glass clip-top jars with airtight seals are an excellent container to store milk. Jars are made from [container glass](https://en.wikipedia.org/wiki/Container_glass){target=_blank} to provide excellent storage properties.
 
